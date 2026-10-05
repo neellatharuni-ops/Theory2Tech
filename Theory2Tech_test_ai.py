@@ -3,7 +3,7 @@ from dotenv import load_dotenv
 
 load_dotenv()
 
-print("\n=== Code2World AI API Test v2 ===\n")
+print("\n=== Theory2Tech AI API Test v2 ===\n")
 
 
 # =========================================================

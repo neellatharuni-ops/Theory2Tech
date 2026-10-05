@@ -42,7 +42,7 @@ def analyze_concept(concept, search_results):
     source_text = "\n\n".join(sources)
 
     prompt = f"""
-You are the AI analysis engine for Code2World,
+You are the AI analysis engine for Theory2Tech,
 an educational platform that connects Computer Science
 concepts with real-world technology.
 
