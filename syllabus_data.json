@@ -1,0 +1,1224 @@
+{
+  "metadata": {
+    "institution": "G. Pullaiah College of Engineering and Technology, Kurnool",
+    "regulation": "R23",
+    "branch": "B.Tech – Computer Science and Engineering",
+    "branch_code": "05",
+    "source": "Uploaded GPCET R23 CSE syllabus PDF",
+    "filter": "Core CSE theory subjects only. Labs, professional electives, open electives, skill-enhancement courses, mandatory/non-CSE courses and internships/projects are excluded.",
+    "extraction_policy": "Topics are taken from the detailed syllabus text in the PDF. Where the PDF did not provide a recoverable detailed section, the course is retained only when it is a core CSE curriculum subject and marked with a source note rather than inventing topics."
+  },
+  "semesters": [
+    {
+      "year": "I Year",
+      "semester": "I Semester",
+      "courses": [
+        {
+          "year": "I Year",
+          "semester": "I Semester",
+          "code": "A40501",
+          "title": "Introduction to Programming",
+          "category": "ES",
+          "source_page": 46,
+          "units": [
+            {
+              "unit": "UNIT I",
+              "title": "Introduction to Programming and Problem Solving",
+              "topics": [
+                "History of Computers",
+                "Basic organization of a computer: ALU, input-output units, memory and program counter",
+                "Introduction to Programming Languages",
+                "Algorithms",
+                "Flowcharts",
+                "Pseudo code",
+                "Compilation and Execution",
+                "Primitive Data Types, Variables and Constants",
+                "Basic Input and Output",
+                "Operations, Type Conversion and Casting",
+                "Algorithmic approach and characteristics of algorithms",
+                "Top-down and Bottom-up problem solving",
+                "Time and Space Complexities"
+              ]
+            },
+            {
+              "unit": "UNIT II",
+              "title": "Control Structures",
+              "topics": [
+                "Sequential programs",
+                "Conditional Statements: if, if-else and switch",
+                "Loops: for, while and do-while",
+                "Break and Continue"
+              ]
+            },
+            {
+              "unit": "UNIT III",
+              "title": "Arrays and Strings",
+              "topics": [
+                "Array indexing",
+                "Array memory model",
+                "Programs with one-dimensional integer arrays",
+                "Two-dimensional arrays",
+                "Introduction to Strings"
+              ]
+            },
+            {
+              "unit": "UNIT IV",
+              "title": "Pointers and User Defined Datatypes",
+              "topics": [
+                "Pointers",
+                "Dereferencing and address operators",
+                "Pointer and address arithmetic",
+                "Array manipulation using pointers",
+                "Structures",
+                "Unions"
+              ]
+            },
+            {
+              "unit": "UNIT V",
+              "title": "Functions and File Handling",
+              "topics": [
+                "Introduction to Functions",
+                "Function Declaration and Definition",
+                "Function Call",
+                "Return Types and Arguments",
+                "Modifying parameters using pointers",
+                "Arrays as parameters",
+                "Scope and Lifetime of Variables",
+                "Basics of File Handling"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "year": "I Year",
+      "semester": "II Semester",
+      "courses": [
+        {
+          "year": "I Year",
+          "semester": "II Semester",
+          "code": "A40504",
+          "title": "Data Structures",
+          "category": "PC",
+          "source_page": 76,
+          "units": [
+            {
+              "unit": "UNIT I",
+              "title": "Introduction to Linear Data Structures",
+              "topics": [
+                "Linear Data Structures",
+                "Abstract Data Types (ADTs)",
+                "Time and Space Complexity Analysis",
+                "Linear Search",
+                "Binary Search",
+                "Bubble Sort",
+                "Selection Sort",
+                "Insertion Sort"
+              ]
+            },
+            {
+              "unit": "UNIT II",
+              "title": "Linked Lists",
+              "topics": [
+                "Singly Linked Lists",
+                "Representation and Operations",
+                "Doubly Linked Lists",
+                "Circular Linked Lists",
+                "Arrays versus Linked Lists",
+                "Applications of Linked Lists"
+              ]
+            },
+            {
+              "unit": "UNIT III",
+              "title": "Stacks",
+              "topics": [
+                "Stack Properties and Operations",
+                "Stack Implementation using Arrays",
+                "Stack Implementation using Linked Lists",
+                "Expression Evaluation",
+                "Backtracking",
+                "Reversing a List"
+              ]
+            },
+            {
+              "unit": "UNIT IV",
+              "title": "Queues and Deques",
+              "topics": [
+                "Queue Properties and Operations",
+                "Queue Implementation using Arrays",
+                "Queue Implementation using Linked Lists",
+                "Breadth-First Search Applications",
+                "Scheduling Applications",
+                "Double-Ended Queues (Deques)",
+                "Deque Operations and Applications"
+              ]
+            },
+            {
+              "unit": "UNIT V",
+              "title": "Trees and Hashing",
+              "topics": [
+                "Introduction to Trees",
+                "Binary Search Trees",
+                "BST Insertion",
+                "BST Deletion",
+                "Tree Traversal",
+                "Hashing",
+                "Hash Functions",
+                "Collision Resolution: Chaining",
+                "Collision Resolution: Open Addressing",
+                "Hash Tables",
+                "Hashing Applications"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "year": "II Year",
+      "semester": "III Semester",
+      "courses": [
+        {
+          "year": "II Year",
+          "semester": "III Semester",
+          "code": "A40506",
+          "title": "Advanced Data Structures & Algorithm Analysis",
+          "category": "PC",
+          "source_page": 96,
+          "units": [
+            {
+              "unit": "UNIT I",
+              "title": "Algorithm Analysis and Advanced Trees",
+              "topics": [
+                "Algorithm Analysis",
+                "Space and Time Complexity",
+                "Asymptotic Notations",
+                "AVL Trees",
+                "AVL Tree Creation",
+                "AVL Tree Insertion",
+                "AVL Tree Deletion",
+                "AVL Tree Applications",
+                "B-Trees",
+                "B-Tree Creation",
+                "B-Tree Insertion",
+                "B-Tree Deletion",
+                "B-Tree Applications"
+              ]
+            },
+            {
+              "unit": "UNIT II",
+              "title": "Heap Trees, Graphs and Divide and Conquer",
+              "topics": [
+                "Heap Trees",
+                "Priority Queues",
+                "Min Heaps and Max Heaps",
+                "Heap Operations and Applications",
+                "Graph Terminology",
+                "Graph Representations",
+                "Graph Search and Traversals",
+                "Connected Components",
+                "Biconnected Components",
+                "Graph Applications",
+                "Divide and Conquer",
+                "QuickSort",
+                "MergeSort",
+                "Strassen's Matrix Multiplication",
+                "Convex Hull"
+              ]
+            },
+            {
+              "unit": "UNIT III",
+              "title": "Greedy Method and Dynamic Programming",
+              "topics": [
+                "Greedy Method",
+                "Job Sequencing with Deadlines",
+                "Knapsack Problem",
+                "Minimum Cost Spanning Trees",
+                "Single Source Shortest Paths",
+                "Dynamic Programming",
+                "All Pairs Shortest Paths",
+                "Bellman-Ford Algorithm",
+                "Optimal Binary Search Trees",
+                "0/1 Knapsack",
+                "String Editing",
+                "Travelling Salesperson Problem"
+              ]
+            },
+            {
+              "unit": "UNIT IV",
+              "title": "Backtracking and Branch and Bound",
+              "topics": [
+                "Backtracking",
+                "8-Queens Problem",
+                "Sum of Subsets Problem",
+                "Graph Coloring",
+                "0/1 Knapsack using Backtracking",
+                "Branch and Bound",
+                "0/1 Knapsack using Branch and Bound",
+                "Travelling Salesperson Problem using Branch and Bound"
+              ]
+            },
+            {
+              "unit": "UNIT V",
+              "title": "NP-Hard and NP-Complete Problems",
+              "topics": [
+                "NP-Hard and NP-Complete Concepts",
+                "Cook's Theorem",
+                "Clique Decision Problem",
+                "Chromatic Number Decision Problem",
+                "Travelling Salesperson Decision Problem",
+                "Scheduling Identical Processors",
+                "Job Shop Scheduling"
+              ]
+            }
+          ]
+        },
+        {
+          "year": "II Year",
+          "semester": "III Semester",
+          "code": "A40507",
+          "title": "Database Management Systems",
+          "category": "PC",
+          "source_page": 98,
+          "units": [
+            {
+              "unit": "UNIT I",
+              "title": "Introduction and Entity Relationship Model",
+              "topics": [
+                "Database Systems",
+                "Database versus File Systems",
+                "Database Users",
+                "Advantages of Database Systems",
+                "Database Applications",
+                "Data Models",
+                "Schema and Instance",
+                "Data Independence",
+                "Three-Tier Schema Architecture",
+                "Database System Structure",
+                "Centralized and Client-Server Architecture",
+                "Entities and Attributes",
+                "Entity Sets and Relationship Sets",
+                "Constraints",
+                "Subclasses and Superclasses",
+                "Inheritance",
+                "Specialization and Generalization",
+                "ER Diagrams"
+              ]
+            },
+            {
+              "unit": "UNIT II",
+              "title": "Relational Model and Basic SQL",
+              "topics": [
+                "Relational Model",
+                "Domains, Attributes, Tuples and Relations",
+                "Null Values",
+                "Domain, Key and Integrity Constraints",
+                "Relational Algebra",
+                "Relational Calculus",
+                "SQL Database Schema",
+                "SQL Data Types",
+                "CREATE and ALTER",
+                "INSERT, DELETE and UPDATE"
+              ]
+            },
+            {
+              "unit": "UNIT III",
+              "title": "SQL Querying",
+              "topics": [
+                "SELECT and Projection",
+                "WHERE Clause",
+                "Arithmetic and Logical Operations",
+                "SQL Date and Time Functions",
+                "Numeric Functions",
+                "String Conversion Functions",
+                "Tables with Relationships",
+                "Key and Integrity Constraints",
+                "Nested Queries and Subqueries",
+                "Grouping and Aggregation",
+                "Ordering",
+                "SQL Joins",
+                "Views",
+                "Relational Set Operations"
+              ]
+            },
+            {
+              "unit": "UNIT IV",
+              "title": "Schema Refinement and Normalization",
+              "topics": [
+                "Purpose of Normalization",
+                "Functional Dependencies",
+                "Normal Forms",
+                "Lossless Join Decomposition",
+                "Dependency Preserving Decomposition",
+                "First Normal Form (1NF)",
+                "Second Normal Form (2NF)",
+                "Third Normal Form (3NF)",
+                "Surrogate Keys",
+                "Boyce-Codd Normal Form (BCNF)",
+                "Multivalued Dependencies",
+                "Fourth Normal Form (4NF)",
+                "Fifth Normal Form (5NF)"
+              ]
+            },
+            {
+              "unit": "UNIT V",
+              "title": "Transactions, Indexing and NoSQL",
+              "topics": [
+                "Transaction Concept",
+                "Transaction States",
+                "ACID Properties",
+                "Concurrent Executions",
+                "Serializability",
+                "Recoverability",
+                "Lock-Based Concurrency Control",
+                "Timestamp-Based Concurrency Control",
+                "Optimistic Concurrency Control",
+                "Deadlocks",
+                "Database Recovery",
+                "Recovery Algorithms",
+                "B+ Tree Indexing",
+                "Hash-Based Indexing",
+                "NoSQL Databases",
+                "Column-Oriented Stores",
+                "Key/Value Stores",
+                "Document Databases",
+                "Graph Databases"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "year": "II Year",
+      "semester": "IV Semester",
+      "courses": [
+        {
+          "year": "II Year",
+          "semester": "IV Semester",
+          "code": "A40511",
+          "title": "Operating Systems",
+          "category": "PC",
+          "source_page": 116,
+          "units": [
+            {
+              "unit": "UNIT I",
+              "title": "Operating Systems Overview and System Structures",
+              "topics": [
+                "Operating System Functions",
+                "Operating System Operations",
+                "Computing Environments",
+                "Free and Open-Source Operating Systems",
+                "Operating System Services",
+                "User and Operating-System Interface",
+                "System Calls",
+                "Types of System Calls",
+                "System Programs",
+                "Operating System Design and Implementation",
+                "Operating System Structure",
+                "Building and Booting an Operating System",
+                "Operating System Debugging"
+              ]
+            },
+            {
+              "unit": "UNIT II",
+              "title": "Processes, Threads and CPU Scheduling",
+              "topics": [
+                "Process Concept",
+                "Process Scheduling",
+                "Operations on Processes",
+                "Inter-Process Communication",
+                "Multithreading Models",
+                "Thread Libraries",
+                "Threading Issues",
+                "CPU Scheduling Concepts",
+                "Scheduling Criteria",
+                "Scheduling Algorithms",
+                "Multiprocessor Scheduling"
+              ]
+            },
+            {
+              "unit": "UNIT III",
+              "title": "Synchronization and Deadlocks",
+              "topics": [
+                "Critical Section Problem",
+                "Peterson's Solution",
+                "Mutex Locks",
+                "Semaphores",
+                "Monitors",
+                "Classic Synchronization Problems",
+                "Deadlock System Model",
+                "Deadlock Characterization",
+                "Deadlock Prevention",
+                "Deadlock Avoidance",
+                "Deadlock Detection",
+                "Recovery from Deadlock"
+              ]
+            }
+          ],
+          "source_note": "Only Units I–III are present in the extracted detailed A40511 section of the uploaded PDF. No Units IV–V are invented."
+        },
+        {
+          "year": "II Year",
+          "semester": "IV Semester",
+          "code": "A40512",
+          "title": "Object Oriented Programming Through Java",
+          "category": "PC",
+          "source_page": 1210,
+          "units": [],
+          "source_note": "The course appears in the curriculum table, but a separate detailed A40512 theory syllabus section was not located in the uploaded PDF. No topics are invented."
+        },
+        {
+          "year": "II Year",
+          "semester": "IV Semester",
+          "code": "A40513",
+          "title": "Software Engineering",
+          "category": "PC",
+          "source_page": 1212,
+          "units": [],
+          "source_note": "The course appears in the curriculum table, but a separate detailed A40513 theory syllabus section was not located in the uploaded PDF. No topics are invented."
+        }
+      ]
+    },
+    {
+      "year": "III Year",
+      "semester": "V Semester",
+      "courses": [
+        {
+          "year": "III Year",
+          "semester": "V Semester",
+          "code": "A40517",
+          "title": "Introduction to Artificial Intelligence",
+          "category": "PC",
+          "source_page": 129,
+          "units": [
+            {
+              "unit": "UNIT I",
+              "title": "Introduction and Intelligent Agents",
+              "topics": [
+                "What is Artificial Intelligence",
+                "Foundations of AI",
+                "History of AI",
+                "State of the Art",
+                "Agents and Environments",
+                "Rationality",
+                "Nature of Environments",
+                "Structure of Agents"
+              ]
+            },
+            {
+              "unit": "UNIT II",
+              "title": "Solving Problems by Searching",
+              "topics": [
+                "Problem Solving Agents",
+                "Example Problems",
+                "Searching for Solutions",
+                "Uninformed Search Strategies",
+                "Informed Search Strategies",
+                "Heuristic Functions",
+                "Local Search Algorithms",
+                "Optimization Problems",
+                "Searching in Continuous Spaces",
+                "Nondeterministic Actions",
+                "Partial Observations",
+                "Online Search Agents"
+              ]
+            },
+            {
+              "unit": "UNIT III",
+              "title": "Reinforcement Learning and Natural Language Processing",
+              "topics": [
+                "Reinforcement Learning",
+                "Passive Reinforcement Learning",
+                "Active Reinforcement Learning",
+                "Generalization in Reinforcement Learning",
+                "Policy Search",
+                "Applications of Reinforcement Learning",
+                "Language Models",
+                "Text Classification",
+                "Information Retrieval",
+                "Information Extraction"
+              ]
+            },
+            {
+              "unit": "UNIT IV",
+              "title": "Natural Language for Communication and Perception",
+              "topics": [
+                "Phrase Structure Grammars",
+                "Syntactic Analysis",
+                "Augmented Grammars",
+                "Semantic Interpretation",
+                "Machine Translation",
+                "Speech Recognition",
+                "Image Formation",
+                "Early Image Processing Operations",
+                "Object Recognition by Appearance",
+                "3D World Reconstruction",
+                "Object Recognition from Structural Information",
+                "Computer Vision Perception"
+              ]
+            },
+            {
+              "unit": "UNIT V",
+              "title": "Robotics and Philosophical Foundations",
+              "topics": [
+                "Robot Hardware",
+                "Robotic Perception",
+                "Motion Planning",
+                "Planning under Uncertainty",
+                "Robotic Software Architectures",
+                "Robotics Application Domains",
+                "Weak AI",
+                "Strong AI",
+                "Ethics and Risks of AI",
+                "Agent Components and Architectures"
+              ]
+            }
+          ]
+        },
+        {
+          "year": "III Year",
+          "semester": "V Semester",
+          "code": "A40518",
+          "title": "Computer Networks",
+          "category": "PC",
+          "source_page": 131,
+          "units": [
+            {
+              "unit": "UNIT I",
+              "title": "Introduction and Reference Models",
+              "topics": [
+                "Types of Computer Networks",
+                "Broadband Access Networks",
+                "Mobile and Wireless Access Networks",
+                "Content Provider Networks",
+                "Transit Networks",
+                "Enterprise Networks",
+                "PAN, LAN, Home, MAN and WAN",
+                "Internetworks",
+                "Network Protocols",
+                "Design Goals",
+                "Protocol Layering",
+                "Connections and Reliability",
+                "Services and Protocols",
+                "OSI Reference Model",
+                "TCP/IP Reference Model"
+              ]
+            },
+            {
+              "unit": "UNIT II",
+              "title": "Data Link Layer",
+              "topics": [
+                "Guided Transmission Media",
+                "Twisted Pair",
+                "Coaxial Cable",
+                "Power Lines",
+                "Fiber Optics",
+                "Data Link Layer Design Issues",
+                "Framing",
+                "Error Control",
+                "Flow Control",
+                "Error Detection and Correction",
+                "Elementary Data Link Protocols",
+                "Sliding Window Protocols",
+                "Channel Allocation",
+                "ALOHA",
+                "Carrier Sense Multiple Access",
+                "Wireless LAN Protocols",
+                "Ethernet"
+              ]
+            },
+            {
+              "unit": "UNIT III",
+              "title": "Network Layer",
+              "topics": [
+                "Network Layer Design Issues",
+                "Packet Switching",
+                "Connectionless and Connection-Oriented Services",
+                "Virtual Circuit and Datagram Networks",
+                "Shortest Path Algorithm",
+                "Flooding",
+                "Distance Vector Routing",
+                "Link State Routing",
+                "Hierarchical Routing",
+                "Broadcast, Multicast and Anycast Routing",
+                "Congestion and Traffic Management",
+                "Internetworking",
+                "Packet Fragmentation",
+                "IPv4",
+                "IP Addresses",
+                "IPv6",
+                "OSPF",
+                "BGP",
+                "Internet Multicasting"
+              ]
+            },
+            {
+              "unit": "UNIT IV",
+              "title": "Transport Layer",
+              "topics": [
+                "Transport Service",
+                "Transport Service Primitives",
+                "Berkeley Sockets",
+                "Socket Programming",
+                "Addressing",
+                "Connection Establishment and Release",
+                "Error Control",
+                "Flow Control",
+                "Multiplexing",
+                "Crash Recovery",
+                "Congestion Control",
+                "UDP",
+                "Remote Procedure Call",
+                "Real-Time Transport Protocol",
+                "TCP",
+                "TCP Service Model",
+                "TCP Segment Header",
+                "TCP Connection Establishment and Release"
+              ]
+            },
+            {
+              "unit": "UNIT V",
+              "title": "Application Layer and Network Applications",
+              "topics": [
+                "Application Layer Services",
+                "DNS",
+                "Electronic Mail",
+                "World Wide Web",
+                "HTTP",
+                "FTP",
+                "Network Management",
+                "Network Security Basics"
+              ]
+            }
+          ],
+          "source_note": "The uploaded PDF's extracted Network syllabus contains Units I–IV clearly. Unit V text is not fully recoverable from the available extracted text, so the application should not fabricate missing Unit V content."
+        },
+        {
+          "year": "III Year",
+          "semester": "V Semester",
+          "code": "A40519",
+          "title": "Automata Theory and Compiler Design",
+          "category": "PC",
+          "source_page": 133,
+          "units": [
+            {
+              "unit": "UNIT I",
+              "title": "Introduction to Automata and Regular Expressions",
+              "topics": [
+                "Alphabets, Strings and Languages",
+                "Chomsky Hierarchy",
+                "Automata and Grammars",
+                "Regular Grammar and Language",
+                "Finite Automata",
+                "Deterministic Finite Automata (DFA)",
+                "Nondeterministic Finite Automata (NFA)",
+                "Equivalence of NFA and DFA",
+                "Minimization of Finite Automata",
+                "Regular Expressions",
+                "Conversion of Regular Grammar and Expressions to Finite Automata",
+                "Pumping Lemma",
+                "Closure Properties of Regular Sets"
+              ]
+            },
+            {
+              "unit": "UNIT II",
+              "title": "Context Free Grammars and Pushdown Automata",
+              "topics": [
+                "Context Free Language",
+                "Context Free Grammar",
+                "Derivation and Parse Trees",
+                "Ambiguity",
+                "Simplification of CFGs",
+                "Chomsky Normal Form",
+                "Greibach Normal Form",
+                "Pushdown Automata",
+                "Design of PDA",
+                "Equivalence of PDA and CFL/CFG"
+              ]
+            },
+            {
+              "unit": "UNIT III",
+              "title": "Turing Machines and Introduction to Compilers",
+              "topics": [
+                "Turing Machine",
+                "Turing Machine Model",
+                "Language Acceptance",
+                "Design of Turing Machines",
+                "Compilers",
+                "Phases of a Compiler",
+                "Lexical Analyzer",
+                "Input Buffering"
+              ]
+            },
+            {
+              "unit": "UNIT IV",
+              "title": "Parsers and Intermediate Code Generation",
+              "topics": [
+                "Parsers",
+                "Top-Down Parsing",
+                "Recursive Descent Parsers",
+                "Predictive Parsers",
+                "Bottom-Up Parsing",
+                "Shift-Reduce Parsing",
+                "LR Parsers",
+                "Intermediate Code Generation",
+                "Three-Address Code"
+              ]
+            },
+            {
+              "unit": "UNIT V",
+              "title": "Code Optimization and Code Generation",
+              "topics": [
+                "Peephole Optimization",
+                "Basic Blocks",
+                "Flow Graphs",
+                "Directed Acyclic Graphs (DAG)",
+                "Principles of Source Code Optimization",
+                "Code Generation",
+                "Code Generator Design Issues",
+                "Simple Code Generator"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "year": "III Year",
+      "semester": "VI Semester",
+      "courses": [
+        {
+          "year": "III Year",
+          "semester": "VI Semester",
+          "code": "A43102",
+          "title": "Introduction to Machine Learning",
+          "category": "PC",
+          "source_page": 158,
+          "units": [
+            {
+              "unit": "UNIT I",
+              "title": "Introduction to Machine Learning and Linear Models",
+              "topics": [
+                "Definition and Scope of Machine Learning",
+                "Applications and Types of Learning",
+                "Supervised Learning",
+                "Unsupervised Learning",
+                "Reinforcement Learning",
+                "Linear Regression",
+                "Least Squares",
+                "Cost Function",
+                "Gradient Descent",
+                "Polynomial Regression",
+                "Overfitting",
+                "RMSE, MAE and R² Score",
+                "Bias-Variance Trade-off"
+              ]
+            },
+            {
+              "unit": "UNIT II",
+              "title": "Classification Algorithms",
+              "topics": [
+                "Classification Overview",
+                "Decision Boundaries",
+                "Logistic Regression",
+                "Sigmoid Function",
+                "K-Nearest Neighbors (KNN)",
+                "Naive Bayes Classifier",
+                "Decision Trees",
+                "Random Forests",
+                "Confusion Matrix",
+                "Precision",
+                "Recall",
+                "F1-Score"
+              ]
+            },
+            {
+              "unit": "UNIT III",
+              "title": "Support Vector Machines and Ensemble Methods",
+              "topics": [
+                "Support Vector Machines",
+                "Kernels",
+                "Hyperplane and Margin",
+                "RBF Kernel",
+                "Polynomial Kernel",
+                "Ensemble Learning",
+                "Bagging",
+                "Boosting",
+                "Voting",
+                "Gradient Boosting",
+                "AdaBoost",
+                "XGBoost",
+                "Model Tuning",
+                "Hyperparameter Optimization"
+              ]
+            },
+            {
+              "unit": "UNIT IV",
+              "title": "Unsupervised Learning Techniques",
+              "topics": [
+                "Clustering",
+                "K-Means Clustering",
+                "Hierarchical Clustering",
+                "DBSCAN",
+                "Density-Based Methods",
+                "Principal Component Analysis (PCA)",
+                "Dimensionality Reduction",
+                "Silhouette Score",
+                "Davies-Bouldin Index"
+              ]
+            },
+            {
+              "unit": "UNIT V",
+              "title": "Model Evaluation and Practical Machine Learning",
+              "topics": [
+                "Cross-Validation",
+                "Model Selection",
+                "Error Metrics",
+                "Feature Scaling",
+                "Feature Selection",
+                "Pipeline Construction",
+                "Scikit-learn",
+                "Classification and Prediction Workflows"
+              ]
+            }
+          ],
+          "source_note": "The uploaded PDF contains Units I–IV clearly in the extracted text. Unit V is only partially recoverable in the available extraction; do not present unverified Unit V topics as exact PDF text."
+        },
+        {
+          "year": "III Year",
+          "semester": "VI Semester",
+          "code": "A40525",
+          "title": "Cloud Computing",
+          "category": "PC",
+          "source_page": 160,
+          "units": [
+            {
+              "unit": "UNIT I",
+              "title": "Basics of Cloud Computing",
+              "topics": [
+                "Introduction to Cloud Computing",
+                "Characteristics of Cloud Computing",
+                "Cloud Models",
+                "Cloud Services",
+                "Cloud-Based Services and Applications",
+                "Virtualization",
+                "Load Balancing",
+                "Scalability and Elasticity",
+                "Deployment and Replication",
+                "Monitoring",
+                "Software Defined Networking",
+                "Network Function Virtualization",
+                "MapReduce",
+                "Identity and Access Management",
+                "Service Level Agreements",
+                "Billing",
+                "Compute, Storage, Database, Application and Content Delivery Services",
+                "Analytics Services",
+                "Deployment and Management Services",
+                "Open Source Private Cloud Software"
+              ]
+            },
+            {
+              "unit": "UNIT II",
+              "title": "Hadoop and Python",
+              "topics": [
+                "Apache Hadoop",
+                "Hadoop MapReduce",
+                "MapReduce Job Execution",
+                "Hadoop Schedulers",
+                "Hadoop Cluster Setup",
+                "Cloud Application Reference Architecture",
+                "Cloud Application Design Methodologies",
+                "Data Storage Approaches",
+                "Python Data Types and Data Structures",
+                "Python Control Flow",
+                "Functions, Modules and Packages",
+                "File Handling",
+                "Date and Time Operations",
+                "Classes"
+              ]
+            },
+            {
+              "unit": "UNIT III",
+              "title": "Python for Cloud Computing",
+              "topics": [
+                "Python for Amazon Web Services",
+                "Python for Google Cloud Platform",
+                "Python for Windows Azure",
+                "Python for MapReduce",
+                "Python Packages",
+                "Python Web Application Framework",
+                "RESTful Web API",
+                "Cloud Application Design Approaches",
+                "Image Processing Application",
+                "Document Storage Application",
+                "MapReduce Application",
+                "Social Media Analytics Application"
+              ]
+            },
+            {
+              "unit": "UNIT IV",
+              "title": "Big Data, Multimedia and Cloud Tuning",
+              "topics": [
+                "Big Data Analytics",
+                "Clustering Big Data",
+                "Classification of Big Data",
+                "Recommendation Systems",
+                "Multimedia Cloud",
+                "Live Video Streaming Application",
+                "Streaming Protocols",
+                "Video Transcoding Application",
+                "Cloud Application Benchmarking",
+                "Workload Characteristics",
+                "Application Performance Metrics",
+                "Benchmarking Methodology",
+                "Benchmarking Tools",
+                "Load Testing",
+                "Bottleneck Detection",
+                "Hadoop Benchmarking"
+              ]
+            },
+            {
+              "unit": "UNIT V",
+              "title": "Applications and Issues in Cloud",
+              "topics": [
+                "Cloud Security",
+                "CSA Cloud Security Architecture",
+                "Authentication and Authorization",
+                "Identity and Access Management",
+                "Data Security",
+                "Key Management",
+                "Auditing",
+                "Cloud Computing for Healthcare",
+                "Cloud Computing for Energy Systems",
+                "Cloud Computing for Transportation",
+                "Cloud Computing for Manufacturing",
+                "Cloud Computing for Education",
+                "Cloud Migration",
+                "Seven-Step Cloud Migration Model",
+                "Organizational Readiness",
+                "Change Management",
+                "Data Privacy and Security Issues",
+                "Cloud Contracting Models",
+                "Jurisdictional Issues",
+                "Commercial and Business Considerations"
+              ]
+            }
+          ]
+        },
+        {
+          "year": "III Year",
+          "semester": "VI Semester",
+          "code": "A40526",
+          "title": "Cryptography & Network Security",
+          "category": "PC",
+          "source_page": 162,
+          "units": [
+            {
+              "unit": "UNIT I",
+              "title": "Computer and Network Security Concepts",
+              "topics": [
+                "Computer Security Concepts",
+                "OSI Security Architecture",
+                "Security Attacks",
+                "Security Services",
+                "Security Mechanisms",
+                "Network Security Model",
+                "Symmetric Cipher Model",
+                "Substitution Techniques",
+                "Transposition Techniques",
+                "Steganography",
+                "Traditional Block Cipher Structure",
+                "Data Encryption Standard (DES)",
+                "Advanced Encryption Standard (AES)"
+              ]
+            },
+            {
+              "unit": "UNIT II",
+              "title": "Number Theory and Public Key Cryptography",
+              "topics": [
+                "Euclidean Algorithm",
+                "Modular Arithmetic",
+                "Fermat's Theorem",
+                "Euler's Theorem",
+                "Chinese Remainder Theorem",
+                "Discrete Logarithms",
+                "Finite Fields GF(p)",
+                "Finite Fields GF(2^n)",
+                "Public Key Cryptography Principles",
+                "RSA",
+                "Diffie-Hellman Key Exchange",
+                "Elliptic Curve Cryptography"
+              ]
+            },
+            {
+              "unit": "UNIT III",
+              "title": "Hash Functions, Authentication and Digital Signatures",
+              "topics": [
+                "Cryptographic Hash Functions",
+                "Hash Function Applications",
+                "Hash Security Requirements",
+                "Secure Hash Algorithm",
+                "Message Authentication Functions",
+                "HMAC and CMAC",
+                "Digital Signatures",
+                "NIST Digital Signature Algorithm",
+                "Distribution of Public Keys",
+                "X.509 Certificates",
+                "Public Key Infrastructure"
+              ]
+            },
+            {
+              "unit": "UNIT IV",
+              "title": "User Authentication, Email Security and IP Security",
+              "topics": [
+                "Remote User Authentication",
+                "Kerberos",
+                "Pretty Good Privacy (PGP)",
+                "S/MIME",
+                "IP Security Overview",
+                "IP Security Policy",
+                "Encapsulating Security Payload",
+                "Security Associations",
+                "Internet Key Exchange"
+              ]
+            },
+            {
+              "unit": "UNIT V",
+              "title": "Transport Level Security and Firewalls",
+              "topics": [
+                "Web Security Requirements",
+                "Transport Layer Security (TLS)",
+                "HTTPS",
+                "Secure Shell (SSH)",
+                "Firewall Characteristics",
+                "Firewall Access Policy",
+                "Types of Firewalls",
+                "Firewall Location",
+                "Firewall Configurations"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "year": "IV Year",
+      "semester": "VII Semester",
+      "courses": [
+        {
+          "year": "IV Year",
+          "semester": "VII Semester",
+          "code": "A40531",
+          "title": "Deep Learning",
+          "category": "PC",
+          "source_page": 190,
+          "units": [
+            {
+              "unit": "UNIT I",
+              "title": "Linear Algebra, Probability and Numerical Computation",
+              "topics": [
+                "Scalars, Vectors, Matrices and Tensors",
+                "Matrix Operations",
+                "Types of Matrices",
+                "Norms",
+                "Eigen Decomposition",
+                "Singular Value Decomposition",
+                "Principal Components Analysis",
+                "Random Variables",
+                "Probability Distributions",
+                "Marginal and Conditional Probability",
+                "Expectation, Variance and Covariance",
+                "Bayes' Rule",
+                "Information Theory",
+                "Overflow and Underflow",
+                "Gradient-Based Optimization",
+                "Constrained Optimization",
+                "Linear Least Squares"
+              ]
+            },
+            {
+              "unit": "UNIT II",
+              "title": "Machine Learning and Deep Feedforward Networks",
+              "topics": [
+                "Machine Learning Basics",
+                "Underfitting",
+                "Hyperparameters and Validation Sets",
+                "Estimators",
+                "Bias and Variance",
+                "Maximum Likelihood",
+                "Bayesian Statistics",
+                "Supervised and Unsupervised Learning",
+                "Stochastic Gradient Descent",
+                "Challenges Motivating Deep Learning",
+                "Learning XOR",
+                "Gradient-Based Learning",
+                "Hidden Units",
+                "Architecture Design",
+                "Backpropagation"
+              ]
+            },
+            {
+              "unit": "UNIT III",
+              "title": "Regularization and Optimization for Deep Learning",
+              "topics": [
+                "Parameter Norm Penalties",
+                "Regularization",
+                "Dataset Augmentation",
+                "Noise Robustness",
+                "Semi-Supervised Learning",
+                "Multi-Task Learning",
+                "Early Stopping",
+                "Parameter Tying and Sharing",
+                "Sparse Representations",
+                "Bagging and Ensemble Methods",
+                "Dropout",
+                "Adversarial Training",
+                "Optimization for Training Deep Models",
+                "Parameter Initialization",
+                "Adaptive Learning Rates",
+                "Second-Order Methods",
+                "Optimization Strategies"
+              ]
+            },
+            {
+              "unit": "UNIT IV",
+              "title": "Convolutional Networks",
+              "topics": [
+                "Convolution Operation",
+                "Pooling",
+                "Convolution Functions",
+                "Structured Outputs",
+                "Data Types",
+                "Efficient Convolution Algorithms",
+                "Random or Unsupervised Features",
+                "Basis for Convolutional Networks"
+              ]
+            },
+            {
+              "unit": "UNIT V",
+              "title": "Sequence Modeling",
+              "topics": [
+                "Recurrent and Recursive Networks",
+                "Unfolding Computational Graphs",
+                "Recurrent Neural Networks",
+                "Bidirectional RNNs",
+                "Encoder-Decoder Sequence-to-Sequence Architectures",
+                "Deep Recurrent Networks",
+                "Recursive Neural Networks",
+                "Echo State Networks",
+                "LSTM",
+                "Gated RNNs",
+                "Long-Term Dependency Optimization",
+                "Autoencoders",
+                "Deep Generative Models"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
